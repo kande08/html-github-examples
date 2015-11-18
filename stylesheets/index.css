@@ -5,3 +5,12 @@
 .bit-text {
   font-size: 72px;
 }
+
+.main-header {
+  font-size: 42px;
+  color: green;
+}
+
+#git_commands {
+  background-color: blue;
+}
